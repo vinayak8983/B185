@@ -1,0 +1,7 @@
+public class company{
+
+public void login(){
+System.out.println("login complete");
+}
+
+}
