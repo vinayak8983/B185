@@ -1,7 +1,12 @@
 public class company{
 
 public void login(){
+
 System.out.println("login complete");
+}
+public void logout(){
+}
+public void main (String args []);{
 }
 
 }
